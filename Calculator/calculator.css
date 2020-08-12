@@ -1,0 +1,25 @@
+body{
+    align-self: center;
+    background-color: black;
+    text-align: center;
+    }
+h1{
+    color: aliceblue;
+}
+
+table{
+    background-color: black;
+    border: 2px solid white;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10px 5px;
+    }
+
+input[type="button"]{
+    background-color: grey;
+    color: white;
+    width: 50px; ;
+}
+input[type="text"]{
+    background-color: lightgreen   ;
+}
